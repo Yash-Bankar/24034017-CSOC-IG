@@ -15,7 +15,3 @@ This project implements and compares two neural network models for predicting pa
 
 Both models were trained and evaluated using Accuracy, F1 Score, PR-AUC, and Confusion Matrix.
 
----
-
-## 📂 Repository Structure
-
