@@ -20,10 +20,4 @@ This project implements and compares Dynamic Programming (DP) algorithms on diff
 
 ---
 
-## 📁 Repository Structure
 
-Reinforcement-Learning/
-└── MDP/
-├── frozenlake.ipynb # Main implementation notebook
-├── convergence.png # Bar chart comparing results
-└── final_report.pdf # Final LaTeX report (compiled)
